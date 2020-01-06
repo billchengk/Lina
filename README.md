@@ -1,0 +1,2 @@
+# Lina
+A simple compiler
